@@ -1,5 +1,5 @@
 import React, { FunctionComponent } from 'react';
-import Pokemon from '../models/pokemon';
+import Pokemon from '../../models/pokemon';
 
 type Props= {
     pokemon:Pokemon
