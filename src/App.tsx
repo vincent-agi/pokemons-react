@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useState, useEffect } from 'react';
+import React, { FunctionComponent } from 'react';
 import PokemonList from './components/pokemons-list/pokemons-list';
 
 const App: FunctionComponent = () => {
